@@ -1,4 +1,6 @@
-## Olá, eu sou Darliel
+## 💾 Olá, eu sou Darliel
+**`Dev Front-End & Mobile`** 
+
 Um desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento front-end, desenvolvendo projetos pessoais em HTML, CSS e JavaScript, mas a paixão por mobile cresce a cada dia.
 ### 💻 Programação e Ferramentas
 
